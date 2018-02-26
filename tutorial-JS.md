@@ -42,12 +42,29 @@ See bellow, you have all informations.
 
 https://www.w3schools.com/ 
 
-11. Install the software Dashlane and Create a count with your professional mail.
+11. Install the software "DASHLANE" and Create a count with your professional mail.
 
 12. Create a count on Trello :
 https://trello.com/
 
+13. Create a count in Vsts :
+https://comeet.visualstudio.com
+
+14. If you have to work on the web developpement of happytech : 
+You must to have all authorizations that Pouya gived you beforehand. 
+Then you must clone the repository Happytech wordpress test second.
+Comeback in VScode , on the Terminal type : git clone + the link that you cloned.
 
 
+15. Install RUBY (you will need this for use and modify the files .scss): 
+https://rubyinstaller.org/downloads/
 
+then go on your CMD and install there 3 packages :
+"compass" , "sass" , "bootstrap-sass"
+for that : use the command line following : 
+"gem install" + the name of the package 
+    for exemple : gem install compass  
+make that for each of them. 
+
+16. Install PHP 
 
