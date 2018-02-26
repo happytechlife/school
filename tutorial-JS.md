@@ -66,5 +66,18 @@ for that : use the command line following :
     for exemple : gem install compass  
 make that for each of them. 
 
-16. Install PHP 
+16. Install PHP ( version : 5.6 and 7.2 ) in your camputer on " C:\" the location is very important!!! : 
+http://windows.php.net/download#php-5.6 ; 
+
+http://windows.php.net/download ; 
+
+then : 
+ in your paramater find " variable d'environnement système " when you will there , click in the bottom on the button 'variable d'environnement'
+ Next, doubleclick on 'path' it's in the left then 'nouveau' and finally write the path of your php file. For exemple the mine was "C:\PHP7" . 
+ Do same for the 2 PHP version.
+
+ 
+
+
+
 
