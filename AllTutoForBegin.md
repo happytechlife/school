@@ -37,3 +37,48 @@ https://www.christopheducamp.com/2013/12/16/forker-un-repo-github/
 9. Pull Requiest your project:
 https://help.github.com/articles/creating-a-pull-request/ 
 See bellow, you have all informations. 
+
+10. If you aren't the King in Javascript or others languagues you can exercise yourself in this link:
+
+https://www.w3schools.com/ 
+
+11. Install the software "DASHLANE" and Create a count with your professional mail.
+
+12. Create a count on Trello :
+https://trello.com/
+
+13. Create a count in Vsts :
+https://comeet.visualstudio.com
+
+14. If you have to work on the web developpement of happytech : 
+You must to have all authorizations that Pouya gived you beforehand. 
+Then you must clone the repository Happytech wordpress test second.
+Comeback in VScode , on the Terminal type : git clone + the link that you cloned.
+
+
+15. Install RUBY (you will need this for use and modify the files .scss): 
+https://rubyinstaller.org/downloads/
+
+then go on your CMD and install there 3 packages :
+"compass" , "sass" , "bootstrap-sass"
+for that : use the command line following : 
+"gem install" + the name of the package 
+    for exemple : gem install compass  
+make that for each of them. 
+
+16. Install PHP ( version : 5.6 and 7.2 ) in your camputer on " C:\" the location is very important!!! : 
+http://windows.php.net/download#php-5.6 ; 
+
+http://windows.php.net/download ; 
+
+then : 
+ in your paramater find " variable d'environnement système " when you will there , click in the bottom on the button 'variable d'environnement'
+ Next, doubleclick on 'path' it's in the left then 'nouveau' and finally write the path of your php file. For exemple the mine was "C:\PHP7" . 
+ Do same for the 2 PHP version.
+
+ 
+
+
+
+
+
